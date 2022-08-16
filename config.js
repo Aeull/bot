@@ -2,29 +2,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285815975368']
-global.premium = ['6285815975368']
-global.ownername = 'Liya'
-global.botname = 'AliyaBot'
-global.packname = '© by AliyaBot'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['6285822347348']
+global.premium = ['6285822347348']
+global.ownername = 'Arull'
+global.botname = 'ArullBot'
+global.packname = '© by ArullBot'
+global.gc = 'https://chat.whatsapp.com/J5hA6E5FJBD7ENPRrac9fu'
+global.linkyt = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'
+global.linkgc = 'https://chat.whatsapp.com/Jxt0CRpnOEJAlG05VfJxb1'
 global.limitawal = '100'
-global.author = '@alya.xzy'
+global.author = '@Arull-xnx'
 global.sessionName = 'polo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = 'terserah'
 global.mess = {
     success: 'Berhasil',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    admin: '*Fitur Khusus Admin Group!*',
+    botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
+    owner: '*Fitur Khusus Owner Bot*',
+    group: '*Fitur Digunakan Hanya Untuk Group!*',
+    private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
+    bot: '*Fitur Khusus Pengguna Nomor Bot*',
+    wait: '*Tunggu sebentar, sedang di proses*',
+    endLimit: '*Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12*',
 }
 global.limitawal = {
     premium: "Infinity",
